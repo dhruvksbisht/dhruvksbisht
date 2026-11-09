@@ -21,20 +21,25 @@
 - I like making stuff work, and then working out how it could break
 - Off the clock: volleyball for Titans Bambous, and an interstate debate title
 
+> My [portfolio](https://portfolio-seven-sigma-57o6k7lhvp.vercel.app) is a scroll-driven film about Rome that ends inside a laptop, and the laptop screen is the rest of the site.
+
 ---
 
 ## Skills
 
 <div align="center">
 
-[![Languages & Frontend](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,html,css&perline=8)](https://skillicons.dev)
-[![Backend & Tools](https://skillicons.dev/icons?i=nodejs,fastapi,postgres,prisma,sqlite,kali,linux,git,vercel&perline=9)](https://skillicons.dev)
+[![Languages & Frontend](https://skillicons.dev/icons?i=cs,ts,js,py,go,java,react,nextjs,html&perline=9)](https://skillicons.dev)
+[![Tools & Backend](https://skillicons.dev/icons?i=dotnet,nodejs,azure,docker,sqlite,git,github,githubactions,linux&perline=9)](https://skillicons.dev)
+[![Security](https://skillicons.dev/icons?i=kali,ubuntu,bash,powershell,postgres,fastapi&perline=9)](https://skillicons.dev)
 
 </div>
 
-**Also:** Sanity CMS · React Native (Expo) · Ollama · Gemma · Tesseract · XGBoost
+**Also:** SQL Server and stored procedures · SAP HANA · Dapper · Prisma · React Native (Expo) · IIS · Tailscale · Sanity CMS
 
-**Security tooling:** Kali Linux · Wireshark · Hashcat · Volatility
+**Security:** Wireshark · Nmap · Burp Suite · Metasploit · Hashcat · John the Ripper · Volatility · Autopsy · CyberChef
+
+**AI tooling:** Ollama · Qwen3 · Gemma · Claude Code
 
 ---
 
