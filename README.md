@@ -76,8 +76,6 @@ pricing, run from a CMS. Next.js, Prisma, Postgres and Sanity.
 | BlueNet: Ocean Watch | FastAPI, React, Gemma (WebGPU), React Native | Spots ships near Mauritius that switch off their transponders, with a Gemma agent running in the browser to build the case. I built the React Native app. |
 | Towards Recovery | React, FastAPI, XGBoost, DeepFace | Substance-misuse screening for counsellors at intake, from intake answers and facial cues. |
 | [Sultan Mauritius](https://sultanmauritius.com/) | Next.js, Prisma, Postgres, Sanity | Bilingual shop with trade and household pricing. Live client site. |
-| USR Dashboard | Next.js, Prisma, Postgres, Auth.js | Student room applications and a staff dashboard for Uniciti Student Residences, with encrypted sensitive fields and invoice generation. |
-| USR Induction Games | Node.js | QR-joinable party games for residence induction night. The projector hosts, everyone plays on their phone, one leaderboard. |
 | [Above the Tape](https://above-the-tape.vercel.app) | Next.js, TypeScript | Poster-style volleyball training site with a scroll-drawn journey line. |
 
 ---
