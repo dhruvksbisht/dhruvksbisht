@@ -31,7 +31,7 @@
 
 [![Languages & Frontend](https://skillicons.dev/icons?i=cs,ts,js,py,go,java,react,nextjs,html&perline=9)](https://skillicons.dev)
 [![Tools & Backend](https://skillicons.dev/icons?i=dotnet,nodejs,azure,docker,sqlite,git,github,githubactions,linux&perline=9)](https://skillicons.dev)
-[![Security](https://skillicons.dev/icons?i=kali,ubuntu,bash,powershell,postgres,fastapi&perline=9)](https://skillicons.dev)
+[![Security & More](https://skillicons.dev/icons?i=kali,ubuntu,bash,powershell,postgres,fastapi&perline=9)](https://skillicons.dev)
 
 </div>
 
