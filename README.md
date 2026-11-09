@@ -21,8 +21,6 @@
 - I like making stuff work, and then working out how it could break
 - Off the clock: volleyball for Titans Bambous, and an interstate debate title
 
-> My [portfolio](https://portfolio-seven-sigma-57o6k7lhvp.vercel.app) is a scroll-driven film about Rome that ends inside a laptop, and the laptop screen is the rest of the site.
-
 ---
 
 ## Skills
