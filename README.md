@@ -3,7 +3,7 @@
 # Dhruv Bisht
 **Cybersecurity student · hackathon builder · volleyball player**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://portfolio-seven-sigma-57o6k7lhvp.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://dhruvbisht.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvksbisht/)
 [![Black Reef](https://img.shields.io/badge/BLACK%20REEF-0B1F33?style=for-the-badge&logoColor=white)](https://teamblackreef.com/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvksbisht@gmail.com)
